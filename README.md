@@ -1,6 +1,6 @@
 # ai_youtube_shorts
 A script that automatically generates and uploads YouTube shorts using ChatGPT and Dall-E-3 with OpenAI API, and YouTube Data API.
 
-Install the requirements, modify the prompt as desired, and simply run the app. The entire process is automated. Here is an example output:
+Install the requirements, modify the prompt as desired, create a soundtracks folder and add the soundtrack files you want. Then simply run the app. The entire process is automated. Here is an example output:
 
 [https://github.com/hansel67/ai_youtube_shorts/issues/1#issue-2476340470](https://private-user-images.githubusercontent.com/16061901/359612154-60a11ea5-593a-4664-88e0-f66027dabcd9.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxODEwMzUsIm5iZiI6MTcyNDE4MDczNSwicGF0aCI6Ii8xNjA2MTkwMS8zNTk2MTIxNTQtNjBhMTFlYTUtNTkzYS00NjY0LTg4ZTAtZjY2MDI3ZGFiY2Q5Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIwVDE5MDUzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyZjZjMDAxZDViNzNkNTNhMTJkOTIxMTAwNTZiM2NmYjEzZjhmYzgxY2Q5MDI1MzEyMjA0NzY3ZjRkMGE0ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Zsds9OaG1IgORU2CyX-X5AQwUxiUqDQpgNJ7mK26Ok8)
