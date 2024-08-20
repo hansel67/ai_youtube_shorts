@@ -1,0 +1,8 @@
+venv
+.env
+projects
+__pycache__
+client_secrets.json
+upload_video.py-oauth2.json
+projects
+soundtracks
